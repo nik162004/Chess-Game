@@ -1,6 +1,4 @@
-# GitHub Project Description (README section)
-
-Real-Time Multiplayer Chess Game 
+# Real-Time Multiplayer Chess Game 
 A real-time, two-player online chess application built with Node.js, Socket.IO, Express, EJS, and chess.js. The project features a custom-built chessboard UI using Tailwind CSS, with drag-and-drop functionality, move validation, and board synchronization between players.
 
 # Features
